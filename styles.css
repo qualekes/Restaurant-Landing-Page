@@ -398,6 +398,7 @@
       padding: 100px 50px;
       width: 900px;
       display: flex;
+        margin-right: 30px;
       justify-content: center;
       align-items: center;
       flex-direction: column;
